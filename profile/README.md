@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! We are a group of devs who just wanna play some silly gambling games.
 
 <!--
 
